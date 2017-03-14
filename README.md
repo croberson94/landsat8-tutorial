@@ -11,8 +11,13 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 	* A tab should be visible that says Search Criteria. Within the tab, you can add an address/place, path/row, or feature (ex. Houston, TX). Click on the Show button to display the queue number, latitude and longitude. Click clear to remove the location.
 	* The Data Range tab allows for setting specific dates for image results
 	* The Result Options tab returns the number of records.
-	* For more detailed instruction, consulte the [help documentation](https://Ita.cr.usgs.gov/ee_tutorial_search_criteria)page. 
+	* Click the Data Sets tab.
+	* For more detailed instruction, consulte the [help documentation](https://Ita.cr.usgs.gov/ee_tutorial_search_criteria) page. 
 3. Data Sets
+	* Within the Data Sets tab, select the pin Landsat Archive.
+	* Under Landsat Archive, select the Pre-Collection pin.
+	* Select the L8 OLI/TIRS box.
+	* Click the Additional Criteria tab.
 4. Additional Criteria
 5. Results 
 
