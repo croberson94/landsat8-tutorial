@@ -1,2 +1,2 @@
-# LANDSAT8_Tutorial
-A tutorial to describe the process of gathering LANDSAT8 images.
+# LANDSAT8
+The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-day offset from Landsat 7.
