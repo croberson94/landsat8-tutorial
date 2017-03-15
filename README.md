@@ -3,6 +3,10 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 
 ![Image of Landsat 8](https://landsat.usgs.gov/sites/default/files/images/LDCM_Landsat8.jpg)
 
+## Uses
+
+## Bands
+
 ## Procedure
 1. Account Registration (optional) 
 	* First, create an account with the [EROS Registration System](https://ers.cr.usgs.gov/login).
@@ -29,5 +33,5 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 ## Success!
 If followed correctly, you've now just downloaded your data set from the Landsat 8 satellite.
 
-## Other Notes:
+## Other Notes:  
 	* To receive the best image quality, choose a data set that has high visibility (low cloud coverage). 
