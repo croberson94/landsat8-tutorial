@@ -6,6 +6,7 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 ## Procedure
 1. Account Registration (optional) 
 	* First, create an account with the [EROS Registration System](https://ers.cr.usgs.gov/login).
+	* Note: Account registration is required to download and order scenes.
 2. Search Criteria  
 	* After registration, visit [EarthExplorer](https://earthexplorer.usgs.gov).
 	* A tab should be visible that says Search Criteria. Within the tab, you can add an address/place, path/row, or feature (ex. Houston, TX). Click on the Show button to display the queue number, latitude and longitude. Click clear to remove the location.
@@ -19,5 +20,10 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 	* Select the L8 OLI/TIRS box.
 	* Click the Additional Criteria tab.
 4. Additional Criteria
-5. Results 
+	* For multiple data sets, use the dropdown to select other options.
+	* Click the Results tab.
+5. Results
+	* The Data Set should be displayed for the set size previously indicated.
+	* In order to download a set, click on the green download arrow / harddrive icon.
+	* Within download options, select Level 1 GeoTIFF Data Product.   
 
