@@ -10,7 +10,7 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 2. Search Criteria  
 	* After registration, visit [EarthExplorer](https://earthexplorer.usgs.gov).
 	* A tab should be visible that says Search Criteria. Within the tab, you can add an address/place, path/row, or feature (ex. Houston, TX). Click on the Show button to display the queue number, latitude and longitude. Click clear to remove the location.
-	* The Data Range tab allows for setting specific dates for image results
+	* The Data Range tab allows for setting specific dates for image results.
 	* The Result Options tab returns the number of records.
 	* Click the Data Sets tab.
 	* For more detailed instruction, consult the [help documentation](https://lta.cr.usgs.gov/ee_tutorial_search_criteria) page. 
@@ -31,4 +31,4 @@ If followed correctly, you've now just downloaded your data set from the Landsat
 
 ### Other Notes:  
 	* To receive the best image quality, choose a data set that has high visibility (low cloud coverage).
-	* The Level 1 GeoTIFF Data Product varies in size, approximately 1 GB for a single set of data. Consider internet speeds and contact your ISP if needed.  
+	* The Level 1 GeoTIFF Data Product varies in size, approximately 1 GB for a single set of data. Consider internet speeds and contact your ISP if necessary.  
