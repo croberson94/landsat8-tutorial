@@ -13,7 +13,7 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 	* The Data Range tab allows for setting specific dates for image results
 	* The Result Options tab returns the number of records.
 	* Click the Data Sets tab.
-	* For more detailed instruction, consulte the [help documentation](https://Ita.cr.usgs.gov/ee_tutorial_search_criteria) page. 
+	* For more detailed instruction, consult the [help documentation](https://Ita.cr.usgs.gov/ee_tutorial_search_criteria) page. 
 3. Data Sets
 	* Within the Data Sets tab, select the pin Landsat Archive.
 	* Under Landsat Archive, select the Pre-Collection pin.
@@ -24,6 +24,10 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 	* Click the Results tab.
 5. Results
 	* The Data Set should be displayed for the set size previously indicated.
-	* In order to download a set, click on the green download arrow / harddrive icon.
+	* In order to download a set, click on the green download arrow / harddrive icon (four icons to the right of the image).
 	* Within download options, select Level 1 GeoTIFF Data Product.   
+## Success!
+If followed correctly, you've now just downloaded your data set from the Landsat 8 satellite.
 
+## Other Notes:
+	* To receive the best image quality, choose a data set that has high visibility (low cloud coverage). 
