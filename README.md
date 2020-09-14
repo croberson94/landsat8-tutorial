@@ -1,5 +1,5 @@
 # Landsat 8 
-The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-day offset from Landsat 7. More can be learned about the Landsat 8 through [this link](https://landsat.usgs.gov/landsat-8).
+The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-day offset from Landsat 7. More can be learned about the Landsat 8 through [this link](https://www.usgs.gov/core-science-systems/nli/landsat).
 
 ![Image of Landsat 8](https://landsat.usgs.gov/sites/default/files/images/LDCM_Landsat8.jpg)
 
@@ -13,7 +13,7 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 	* The Data Range tab allows for setting specific dates for image results.
 	* The Result Options tab returns the number of records.
 	* Click the Data Sets tab.
-	* For more detailed instruction, consult the [help documentation](https://lta.cr.usgs.gov/ee_tutorial_search_criteria) page. 
+	* For more detailed instruction, consult the [help documentation](https://lta.cr.usgs.gov/EEHelp/ee_help) page. 
 3. Data Sets
 	* Within the Data Sets tab, select the pin Landsat Archive.
 	* Under Landsat Archive, select the Pre-Collection pin.
