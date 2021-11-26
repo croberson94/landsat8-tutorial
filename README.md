@@ -30,6 +30,6 @@ The Landsat 8 is a satellite that images the entire Earth every 16 days in an 8-
 If followed correctly, you've now just downloaded your data set from the Landsat 8 satellite!
 
 ### Other Notes:  
-	* To receive the best image quality, choose a data set that has high visibility (low cloud coverage).
+* To receive the best image quality, choose a data set that has high visibility (low cloud coverage).
 
-	* The Level 1 GeoTIFF Data Product varies in size, approximately 1 GB for a single set of data. Consider internet speeds and contact your ISP if necessary.  
+* The Level 1 GeoTIFF Data Product varies in size, approximately 1 GB for a single set of data. Consider internet speeds and contact your ISP if necessary.  
